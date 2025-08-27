@@ -52,6 +52,8 @@ I care about blending **architecture, product, and people** — whether I’m me
 ---
 
 ### 📊 GitHub Stats  
+> [!NOTE]
+> **Note:** These stats don't reflect what I've done professionally, just my own personal contributions while trying to have a family, raise kids, and live life!</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davemcg3&show_icons=true&theme=default" height="150" />
