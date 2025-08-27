@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">👋 Hi, I’m Dave McGrath</h1>
+<h1 align="center">Dave McGrath</h1>
 <p align="center">
   🚀 Full-Stack Engineer & Technical Leader · Based near Colorado Springs, CO  
 </p>
