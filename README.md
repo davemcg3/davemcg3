@@ -54,8 +54,8 @@ I care about blending **architecture, product, and people** — whether I’m me
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davemcg3&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davemcg3&layout=compact&theme=default" height="150" />
 </p>
 
 ---
